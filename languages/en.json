@@ -1,0 +1,17 @@
+{
+  "profile": {
+    "rol": "Full Stack Developer",
+    "description": "Full Stack Developer with education at SoyHenry developing skills and projects, which helped me: work in a team, analyze massive data, design based on user experience, specialized in Front-end and Back-end.<br />Knowledge in agile methodologies, GIT, data structures, algorithms, CSS frameworks, Experience in Front End and Back End development React, Redux, Node, Express, JavaScript. With skills such as effective communication, teamwork, adaptability, problem-solving."
+  },
+  "experience": {
+    "first-job-title": "Back-End Developer",
+    "firts-job-dates": "January 1999 - January 2000",
+    "first-job-description": "Lorem ipsum",
+    "second-job-title": "Back-End Developer",
+    "second-job-dates": "January 1999 - January 2000",
+    "second-job-description": "Lorem ipsum",
+    "last-job-title": "Back-End Developer",
+    "last-job-dates": "January 1999 - January 2000",
+    "last-job-description": "Lorem ipsum"
+  }
+}
